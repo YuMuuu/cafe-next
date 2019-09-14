@@ -22,3 +22,13 @@ $ yarn install
 ```
 
 `yarn run next` はまだ動かない( index.tsx が未完成)
+
+## Docker
+立ち上げ
+```sh
+$ docker-compose up
+```
+終了
+```sh
+$ docker-compose down
+```
